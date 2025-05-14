@@ -7,3 +7,6 @@ Al hacer cambios, pasa a M y hay q volver a añadirlo al staging area c git add
 
 Paso 3: Crear una version (commit) de nuestro repo
 git commit -m "Version 1 mi repositorio"
+
+*Con git log vemos el historial de commits
+*Con git status vemos el estado actual del repo
